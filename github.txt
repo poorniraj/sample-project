@@ -1,0 +1,20 @@
+What is difference between Git and GitHub?
+  The key difference between Git and GitHub is that Git is an open-source tool developers install locally 
+to manage source code, while GitHub is an online service to which developers who use Git can connect and 
+upload or download resources.
+
+
+What is Git? 
+      Git is a DevOps tool used for source code management. 
+      its open-source version control system used to handle small to very large projects efficiently. 
+      Git is used to tracking changes in the source code, enabling multiple developers to work together on
+       non-linear development.
+
+What is meant by version control system?
+    Version control, also known as source control, is the practice of tracking and managing changes to software
+ code. Version control systems are software tools that help software teams manage changes to source code over time.
+
+
+Repositories:
+    A folder contains all the files related to a project
+
